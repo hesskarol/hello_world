@@ -1,2 +1,3 @@
 # hello_world
-My first repo.
+First repo.
+My name is Bolo.
